@@ -2,8 +2,8 @@
 
 <img width="50%" align="right" src="https://img.freepik.com/vector-premium/concepto-resolucion-problemas-mujer-piensa-resuelve-problema-signo-interrogacion-bombilla-luminosa-como-simbolos-aparicion-idea-creativa_501173-53.jpg" alt="imagen que muestra el concepto de resolución de ideas, una mujer con dudas, una mujer pensando y una mujer teniendo una idea" />
 
-<p align="justify"> Soy una persona que está empezando a descubrir el mundo de la tecnología. 
-Lo que más me gusta es construir a partir de ideas, mientras busco soluciones a los problemas que van surgiendo.</p>
+<p align="justify"> Soy una persona que está empezando a descubrir el mundo de la tecnología. </p>
+<p align="justify"> Lo que más me gusta es construir a partir de ideas, mientras busco soluciones a los problemas que van surgiendo.</p>
 </p>
 
 
