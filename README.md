@@ -8,6 +8,6 @@
 
 
 - 🔭 Intento programar en: Python, Javascript, HTML, CSS y algo en Java
-- 📚 Conozco algo de: Flask, Git, Google Cloud, Github Action
+- 📚 Conozco algo de: Flask, Git, Google Cloud, Github Action.
 - 👯 No dejando de aplicar testing.
 - 📫 Estoy interesada en aprender tecnologías relacionadas con la accesibilidad.
