@@ -7,7 +7,10 @@
 </p>
 
 <img align="left" width="160" height="160" src="https://user-images.githubusercontent.com/107017946/218183956-34c0c191-c783-4eca-878e-a229ae75ac2c.png">
-<p>- 🔭 Intento programar en: Python, Javascript, HTML, CSS y algo en Java.</p>
+<p>-🔭 Intento programar en: Python, Javascript, HTML, CSS y algo en Java.</p>
 <p>-📚 Conozco algo de: Flask, Git, Google Cloud, Github Action.</p>
 <p>-👯 No dejando de aplicar testing.</p>
 <p>-📫 Estoy interesada en aprender tecnologías relacionadas con la accesibilidad.</p>
+
+<p>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/monicamrdam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/monicamrdam/" height="30" width="40" /></a></p>
