@@ -6,5 +6,5 @@ Soy una persona que está empezando a descubrir el mundo de la tecnología. Lo q
 <img align="left" width="150" height="150" src="https://user-images.githubusercontent.com/107017946/218183956-34c0c191-c783-4eca-878e-a229ae75ac2c.png">
 - Intento programar en: Python, Javascript, HTML, CSS y algo en Java
 - Conozco algo de: Flask, Git, Google Cloud, Github Action
-- Intento no dejar de aplicar: testing.
+- No dejando de aplicar testing.
 - Estoy interesada en aprender tecnologías asociadas a la accesibilidad.
