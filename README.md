@@ -7,4 +7,4 @@ Soy una persona que está empezando a descubrir el mundo de la tecnología. Lo q
 - Intento programar en: Python, Javascript, HTML, CSS y algo en Java
 - Conozco algo de: Flask, Git, Google Cloud, Github Action
 - No dejando de aplicar testing.
-- Estoy interesada en aprender tecnologías asociadas a la accesibilidad.
+- Estoy interesada en aprender tecnologías relacionadas con la accesibilidad.
