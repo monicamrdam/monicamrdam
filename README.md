@@ -12,5 +12,5 @@
 <p>-👯 No dejando de aplicar testing.</p>
 <p>-📫 Estoy interesada en aprender tecnologías relacionadas con la accesibilidad.</p>
 
-<p>
+[linkedin]<p>
 <a href="https://www.linkedin.com/in/monicamrdam/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/monicamrdam/" height="30" width="40" /></a></p>
