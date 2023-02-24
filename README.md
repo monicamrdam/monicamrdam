@@ -13,5 +13,5 @@
 <p>-📫 Estoy interesada en aprender tecnologías relacionadas con la accesibilidad.</p>
 
 <p>
-<a href="https://www.linkedin.com/in/monicamrdam/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/monicamrdam/" height="30" width="40"/></a><
+<a href="https://www.linkedin.com/in/monicamrdam/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/monicamrdam/" height="30" width="40"/></a>
 <a href="https://wirehaired-failing-45b.notion.site/Desarrolladora-junior-49858205cc014560ad02d6915e228031" target="_blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG6_0Lnr_6hWQAUGREFkeJeWh5nD8X_XeqKw&usqp=CAU" alt="https://www.notion.so/Desarrolladora-junior-49858205cc014560ad02d6915e228031" height="30" width="40" /></a></p>
