@@ -8,7 +8,7 @@
 
 <img align="left" width="160" height="160" src="https://user-images.githubusercontent.com/107017946/218183956-34c0c191-c783-4eca-878e-a229ae75ac2c.png">
 <p>-🔭 Intento programar en: Python, Javascript, HTML, CSS y algo en Java.</p>
-<p>-📚 Conozco algo de: Flask, Spring,Git, Google Cloud, Github Action.</p>
+<p>-📚 Conozco algo de: Flask, Git, Docker, Github Action, Google Cloud Platform (GCP), Linux.</p>
 <p>-👯 No dejando de aplicar testing.</p>
 <p>-📫 Estoy interesada en aprender tecnologías relacionadas con la accesibilidad.</p>
 
